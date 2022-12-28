@@ -3,10 +3,10 @@ public class Main {
         task1();
         task2();
     }
-    public static void task1() {
-        System.out.println("Привет, Мир");
+    public static void task1 () {
+        System.out.println("Привет, Мир!");
     }
-    public static void task2() {
-        System.out.println("Hello, World");
+    public static void task2 () {
+        System.out.println("Hellow, World!");
     }
 }
