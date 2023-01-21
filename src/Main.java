@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Привет, Мир!");
     }
     public static void task2 () {
-        System.out.println("Hellow, World!");
+        System.out.println("Hello, World!");
     }
 }
